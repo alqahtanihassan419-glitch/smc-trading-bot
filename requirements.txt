@@ -1,3 +1,4 @@
 pandas
 polygon-api-client
 requests
+flask
